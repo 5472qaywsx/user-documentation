@@ -34,7 +34,7 @@ ID search is carried out using the DOI.
 
 ### ISBN
 
-First, [eBook.de's](https://www.ebook.de/de/) API is used to fetch bibliographic information based on the ISBN. If no entry is found, the JabRef tries [OttoBib](https://www.ottobib.com) to get data.
+First, [eBook.de's](https://www.ebook.de/de/) API is used to fetch bibliographic information based on the ISBN. If no entry is found, then JabRef tries [add functioning service here](add functioning service here) to get data.
 
 ID search is carried out using the [International Standard Book Number](https://en.wikipedia.org/wiki/International_Standard_Book_Number).
 
